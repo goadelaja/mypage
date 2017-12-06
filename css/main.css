@@ -1,0 +1,28 @@
+body{
+	background-color: #ccffcc;
+}
+header{
+	margin-top: -90px;
+	padding:10px;
+	text-shadow:3px 2px  5px black, 0 0 5px red;
+	color:white;
+	text-align: center;
+	font-size: 70px;
+}
+
+.wrapper{
+	margin-bottom: -70px;
+}
+
+.min{
+	font-size: 30px;
+	padding-top:30px;
+}
+
+li{
+list-style-type: none;
+display: inline;
+margin-left: 20px;
+margin-right: 20px;
+font-size: 30px;
+}
