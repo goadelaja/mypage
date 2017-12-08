@@ -1,6 +1,7 @@
 body{
 	background-color: #ccffcc;
 }
+
 header{
 	margin-top: -90px;
 	padding:10px;
@@ -12,6 +13,8 @@ header{
 
 .wrapper{
 	margin-bottom: -70px;
+	margin-top: 70px;
+
 }
 
 .min{
@@ -25,4 +28,19 @@ display: inline;
 margin-left: 20px;
 margin-right: 20px;
 font-size: 30px;
+}
+
+nav a{
+	text-decoration: none;
+	color: inherit;
+}
+
+nav a:hover{
+	color: red;
+}
+
+.foot{
+	clear: both;
+	color: black;
+	text-align: center;
 }
