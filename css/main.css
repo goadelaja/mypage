@@ -39,6 +39,13 @@ nav a:hover{
 	color: red;
 }
 
+/*************About************************/
+.message{
+	background: white;
+	padding:40px 50px;
+	margin: 20px;
+	font-size: 25px;
+}
 .foot{
 	clear: both;
 	color: black;

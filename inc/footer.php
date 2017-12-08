@@ -1,5 +1,5 @@
 <footer class="foot">
-  &copy copyright <?php echo Date('Y')?>;
+<!--  &copy copyright <?php echo Date('Y')?>;-->
 </footer>
 
 </body>
