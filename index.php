@@ -12,7 +12,6 @@ include("inc/header.php");
       </div>
       <nav id="mynavs">
         <ul>
-          <li><a href="index.php">Home</a></li>
           <li><a href="portfolio.php">Portfolio</a></li>
           <li><a href="about.php" >About</a></li>
         </ul>
