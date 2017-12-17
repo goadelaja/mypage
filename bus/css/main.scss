@@ -1,0 +1,144 @@
+$color: rgb(26,99,233);
+
+$pcolor:rgb(232,238,240);
+
+
+/*****************Header*******************/
+header{
+	margin-bottom: 3px;
+	background:$pcolor;
+}
+
+.header{
+	text-align: center;
+	color:$color;
+	margin-top: 10px;
+	padding-top: 10px;
+	font-size: 40px;
+}
+nav ul{
+	list-style: none;
+	display: in-block;
+	text-align: right;
+	color:$color;
+	font-size: 20px;
+
+}
+
+nav li{
+	display: inline-block;
+	padding: 0 20px 10px 20px;
+
+}
+
+.login{
+	font-style: italic;
+	font-size: 1rem;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+
+
+a:hover {
+	color:#3333ff;
+}
+
+/******************body**********************/
+
+body{
+	background: rgb(206, 234, 219);
+}
+
+#cont{
+	text-align: center;
+}
+
+#container{
+	font-size: 20px;
+	background: rgb(246, 247, 200);
+
+}
+
+.container{
+	font-size: 30px;
+
+}
+.submit{
+	font-size: 20px;
+}
+
+/******************footer********************/
+footer{
+	text-align: center;
+	background: $pcolor;
+	clear: both;
+	padding-top:5px;
+	padding-bottom: 5px;
+	font-size:20px;
+	margin-top: 357px;
+}
+
+/************************************************************************
+PAGE ABOUT
+*************************************************************************/
+
+.profile-photo{
+	display:block;
+	max-width:250px;
+	margin:0 auto 30px;
+	border-radius:40%;
+}
+
+/************************************************************************
+CONTACT
+*************************************************************************/
+#primary{
+	text-align: center;
+	
+}
+
+#tertiary{
+	text-align: center;
+	width: 300px;
+}
+
+
+.contact-info{
+	padding:0;
+	list-style:none;
+	margin:none;
+	font-size:.9em;
+}
+
+.contact-info  a{
+	padding:0 0 0 30px;
+	display:block;
+	min-height:20px;
+	background-repeat:no-repeat;
+	background-size: 20px 20px;
+	margin:0 0 10px;
+}
+.contact-info li.phone a{
+	background-image:url(../img/phone.png);
+}
+.contact-info li.mail a{
+	background-image:url(../img/mail.png);
+}
+.contact-info li.twitter a{
+	background-image:url(../img/twitter.png);
+}
+
+
+/*********************THANKS****************************/
+#thanks{
+	color:white;
+}
+
+/**************************register*********************/
+#reg{
+	text-align: center;
+	font-size: 1.2rem;
+}

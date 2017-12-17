@@ -1,0 +1,29 @@
+#cont {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #00a3cc; }
+
+#cont h1 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 70px;
+  text-shadow: 1px 1px 5px black; }
+
+#container {
+  background: #cce6ff;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-size: 20px; }
+
+#maintain li {
+  list-style: none; }
+
+#foot {
+  text-align: center; }
+
+#submit {
+  padding: 10px 20px;
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=main.css.map */

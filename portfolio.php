@@ -22,6 +22,8 @@ include("inc/header.php");
       <nav>
         <ul>
           <li><a href="heritage/index.php">Heritage Place</a></li>
+          <li><a href="auto/index.php">Auto Place</a></li>
+          <li><a href="bus/index.php">Business Registration</a></li>
         </ul>
       </nav>
 
